@@ -26,6 +26,5 @@
     },
     "supportedTargets": [
         "microbit"
-    ],
-    "preferredEditor": "pyprj"
+    ]
 }
